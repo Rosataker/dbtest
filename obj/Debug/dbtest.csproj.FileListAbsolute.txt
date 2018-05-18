@@ -1,0 +1,14 @@
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.Main.resources
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.Properties.Resources.resources
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.csproj.GenerateResource.cache
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.csproj.CoreCompileInputs.cache
+C:\Users\ismp\source\repos\dbtest\dbtest\bin\Debug\dbtest.exe.config
+C:\Users\ismp\source\repos\dbtest\dbtest\bin\Debug\dbtest.exe
+C:\Users\ismp\source\repos\dbtest\dbtest\bin\Debug\dbtest.pdb
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.exe
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.pdb
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.csprojAssemblyReference.cache
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.ModelWindows.resources
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.UpdateWindows.resources
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.SaveWindows.resources
+C:\Users\ismp\source\repos\dbtest\dbtest\obj\Debug\dbtest.DeleteWindows.resources
